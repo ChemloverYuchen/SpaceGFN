@@ -1,6 +1,7 @@
 # SpaceGFN
 
-This repository contains the implementation code for our research paper, [Designing chemical space for drug discovery with SpaceGFN]()
+This repository contains the implementation code for our research paper, [Designing the Haystack: 
+Programmable Chemical Space for Generative Drug Discovery]()
 
 ## Introduction
 
