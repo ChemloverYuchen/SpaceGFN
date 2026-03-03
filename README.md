@@ -1,7 +1,7 @@
 # SpaceGFN
 
 This repository contains the implementation code for our research paper, [Designing the Haystack: 
-Programmable Chemical Space for Generative Drug Discovery]()
+Programmable Chemical Space for Generative Molecular Discovery](https://arxiv.org/abs/2603.00614)
 
 ## Introduction
 

@@ -606,7 +606,7 @@ class GFlowNetAgent:
             # Backward trajectories
             masks_b_1,masks_b_2 = batch.get_masks_backward()
             
-            policy_output_b_1 = self.backward_policy_1(states_1)#backward的logit计算由backward model得到
+            policy_output_b_1 = self.backward_policy_1(states_1)
             policy_output_b_2 = self.backward_policy_2(states_2)
             logprobs_states_1 = self.env.get_logprobs_1(
                 policy_output_b_1, False, actions_1, parents_1, masks_b_1,self.temperature_logits
